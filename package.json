@@ -1,0 +1,32 @@
+{
+  "name": "webpack-typescript-template",
+  "version": "1.0.0",
+  "description": "Simple template for setting up a Webpack / TypeScript project",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshschuler/webpack-typescript-template.git"
+  },
+  "author": "James Schuler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameshschuler/webpack-typescript-template/issues"
+  },
+  "homepage": "https://github.com/jameshschuler/webpack-typescript-template#readme",
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "sass": "^1.26.9",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.1",
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.6",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
