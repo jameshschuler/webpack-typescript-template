@@ -1,5 +1,5 @@
 {
-  "name": "cocktail-buddy",
+  "name": "webpack-typescript-template",
   "version": "1.0.0",
   "description": "Simple template for setting up a Webpack / TypeScript project",
   "main": "app.js",

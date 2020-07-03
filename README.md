@@ -1,8 +1,12 @@
-# Cocktail Buddy
+# Webpack and TypeScript Template
 
-Simple web app for learning more cocktails and cocktail recipes.
+Simple template for setting up a Webpack / TypeScript project
 
 ## Supports
+
+- Sass / scss
+- TypeScript
+- Webpack Dev Server
 
 ## License
 
